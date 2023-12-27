@@ -1,0 +1,33 @@
+
+C
+java:S1604&"(Make this anonymous inner class a lambda(·èÜËÿÿÿÿÿ
+>
+java:S16049"(Make this anonymous inner class a lambda(¡İç½
+C
+java:S1604L"(Make this anonymous inner class a lambda(šîˆÑùÿÿÿÿ
+>
+java:S1604b"(Make this anonymous inner class a lambda(©Ê¯í
+>
+java:S1604x"(Make this anonymous inner class a lambda(Äİ‰ö
+i	java:S116"TRename this field "pf_oldPwd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¸Á
+n	java:S116"TRename this field "pf_newPwd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥®¬òÿÿÿÿÿ
+p	java:S116"VRename this field "pf_okNewPwd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÀüúÿÿÿÿ
+o	java:S116"URename this field "btn_update" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃñÁ•üÿÿÿÿ
+j	java:S116"URename this field "btn_return" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¼ƒ
+p
+java:S1450"URemove the "jLabel" field and declare it as a local variable in the relevant methods.(ÒÜÓÙûÿÿÿÿ
+l
+java:S1450"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(ƒìÓá
+l
+java:S1450"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(öåø¿
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æïùÿÿÿÿ
+c	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÄ„
+c	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üƒÚ
+h	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×üıûÿÿÿÿ
+b	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òè…N
+L
+java:S1128"7Remove this unused import 'javax.swing.SwingUtilities'.(…äü$
+H
+java:S1128"2Remove this unused import 'java.awt.BorderLayout'.(íÿì°
+E
+java:S1128"/Remove this unused import 'java.awt.Dimension'.(˜‚º·

@@ -1,0 +1,33 @@
+
+C
+java:S1604^"(Make this anonymous inner class a lambda(²›âëıÿÿÿÿ
+>
+java:S1604s"(Make this anonymous inner class a lambda(Òğô×
+K
+java:S1604Ÿ"(Make this anonymous inner class a lambda(Ô¦ñ—ûÿÿÿÿ8‡àŠ®È1
+E
+java:S1604¸"(Make this anonymous inner class a lambda(ö¦8™×‹®È1
+D
+java:S1604Ç"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ
+p	java:S116("VRename this field "tf_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è•ìşÿÿÿÿ
+k	java:S116)"VRename this field "pf_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë—±¸
+n	java:S116+"TRename this field "btn_login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø³’¾ÿÿÿÿÿ
+i	java:S116,"TRename this field "btn_reset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íœ×ô
+m	java:S116-"SRename this field "btn_exit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùàçıÿÿÿÿ
+v
+java:S1450#"TRemove the "image" field and declare it as a local variable in the relevant methods.(Ğğ×¸øÿÿÿÿ8èıˆ®È1
+p
+java:S1450&"URemove the "jLabel" field and declare it as a local variable in the relevant methods.(ÒÜÓÙûÿÿÿÿ
+r
+java:S1450'"\Remove the "passwordLabel" field and declare it as a local variable in the relevant methods.(şšû—
+h
+java:S1450""RRemove the "url" field and declare it as a local variable in the relevant methods.(Û†»
+I
+java:S1948#"'Make "image" transient or serializable.(Ğğ×¸øÿÿÿÿ8êıˆ®È1
+c	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¤Å
+c	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İü‚‰
+h	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ášáÌøÿÿÿÿ
+i	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úüîüşÿÿÿÿ
+i	java:S100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ß˜Àıÿÿÿÿ
+N
+java:S1135Å"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ

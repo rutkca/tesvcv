@@ -1,0 +1,19 @@
+
+K
+java:S3740ª"/Provide the parametrized type for this generic.(¹–Îîıÿÿÿÿ
+o
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸM
+u
+java:S1192"_Define a constant instead of duplicating this literal "å¯„ä»¶äººä¿¡æ¯å¿…é¡»å¡«å†™ã€‚" 5 times.(İÙñÙ
+z
+java:S11921"_Define a constant instead of duplicating this literal "æ”¶ä»¶äººä¿¡æ¯å¿…é¡»å¡«å†™ã€‚" 5 times.(–Õ­Ğıÿÿÿÿ
+
+java:S1149ª"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¹–Îîıÿÿÿÿ
+{
+java:S1149´"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŸM
+P
+java:S1118":Add a private constructor to hide the implicit public one.( Ë¼ò
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(„™º¥
+B
+java:S1168Ê"+Return an empty collection instead of null.(¥¹ï

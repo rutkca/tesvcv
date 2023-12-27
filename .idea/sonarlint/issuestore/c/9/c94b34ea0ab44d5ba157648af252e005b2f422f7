@@ -1,0 +1,9 @@
+
+C
+java:S4925"-Remove this "Class.forName()", it is useless.(ÚÇÎ“
+Q
+java:S6437&"6Revoke and change this password, as it is compromised.(ÌÕû±ıÿÿÿÿ
+@	java:S1063"+Replace this use of System.out by a logger.(üÀïË
+=
+java:S1068
+"'Remove this unused "dao" private field.(Ä¢²Ñ

@@ -1,0 +1,25 @@
+
+D
+java:S1604‚"(Make this anonymous inner class a lambda(¦Èâ‡ıÿÿÿÿ
+?
+java:S1604œ"(Make this anonymous inner class a lambda(Äİ‰ö
+l	java:S116"RRename this field "tf_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¡ê¸úÿÿÿÿ
+k	java:S116"QRename this field "pf_pwd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÅıúÿÿÿÿ
+h	java:S116"SRename this field "pf_okPwd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‘ÿè
+h	java:S116"SRename this field "btn_save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(® Ò™
+j	java:S116"URename this field "btn_return" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¼ƒ
+p
+java:S1450"URemove the "jLabel" field and declare it as a local variable in the relevant methods.(ÒÜÓÙûÿÿÿÿ
+l
+java:S1450"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(ƒìÓá
+l
+java:S1450"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(öåø¿
+c	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãğ‚Æ
+h	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş³©šûÿÿÿÿ
+c	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³ •
+c	java:S100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¸²¿
+c	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òè…N
+H
+java:S1128"2Remove this unused import 'java.awt.BorderLayout'.(íÿì°
+E
+java:S1128"/Remove this unused import 'java.awt.Dimension'.(˜‚º·
